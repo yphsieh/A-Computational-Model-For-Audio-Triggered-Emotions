@@ -3,7 +3,7 @@ Description: Using Nengo and package Brian.hears to simulate human hearing, and 
 
 The detailed report is in `doc`.
 
-In `src`:
+In `src`:<br>
 a)	NCC.py : The main code file to extract feature vectors <br>
 b)	AuditoryPeriphery.py : build the Auditory Periphery layer<br>
 c)	Ceptral.py : build the Cepstral layer<br>
